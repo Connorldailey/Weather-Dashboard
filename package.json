@@ -1,7 +1,6 @@
 {
   "name": "weather-dashboard",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -26,5 +25,14 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.2",
     "bootstrap": "^5.3.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Connorldailey/Module9-Challenge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Connorldailey/Module9-Challenge/issues"
+  },
+  "homepage": "https://github.com/Connorldailey/Module9-Challenge#readme",
+  "description": ""
 }
