@@ -1,1 +1,14 @@
-[]
+[
+	{
+		"name": "Columbus",
+		"id": "3eb22fbb-73d8-42bc-abe1-8f2fa7255e4b"
+	},
+	{
+		"name": "Austin",
+		"id": "9e29b28a-532a-4bad-81ef-5f52b1645a81"
+	},
+	{
+		"name": "San Diego",
+		"id": "f79e686b-b259-4b67-af4b-42cba9c51155"
+	}
+]
