@@ -101,13 +101,13 @@ class WeatherService {
       const weatherQuery = this.buildWeatherQuery(coordinates);
       const response = await fetch(weatherQuery);
       if (!response.ok) {
-        return `Failed to fetch weatehr data for ${this.cityName}`;
+        return `Failed to fetch weather data for ${this.cityName}`;
       }
       const data = await response.json();
       return data;
     } catch (err) {
       console.log('Error in fetchWeatherData:', err);
-      return err;
+      throw err;
     }
   }
 
