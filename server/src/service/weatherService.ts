@@ -68,6 +68,9 @@ class WeatherService {
 
   // Create destructureLocationData method
   private destructureLocationData(locationData: Coordinates): Coordinates {
+    if (!locationData) {
+      throw new Error('Location data must be defined');
+    }
     const { lat, lon } = locationData;
     return { lat, lon };
   }
