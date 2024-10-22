@@ -40,7 +40,7 @@ The application will now be accessible at `http://localhost:3000`.
 
 ## Usage 
 
-To use the application, visit siteURL.
+To use the application, visit the [site URL](https://module9-challenge-b2vj.onrender.com).
 
 **How to Get Started**:
 
