@@ -1,4 +1,4 @@
-# Module 9 Challenge - Weather Dashboard
+# Weather Dashboard
 
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
